@@ -9,7 +9,8 @@ public class barraVapor : MonoBehaviour {
 	public float como, scaleXIni, scaleYIni, scaleZIni, rgVapor;
 	public int vaporT;
 
-	// Use this for initialization
+	// Use this for initialization --------------------------------------------------------comentario de testo do git
+
 	void Start () {
 		space = GetComponent<Transform> ();
 
